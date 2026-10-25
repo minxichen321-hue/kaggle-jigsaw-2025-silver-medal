@@ -1,4 +1,4 @@
-# Jigsaw 2025 Silver Medal Solution
+# Kaggle Jigsaw 2025 Silver Medal Solution
 
 [![Kaggle Silver Medal](https://img.shields.io/badge/Kaggle-Silver%20Medal-silver)](https://www.kaggle.com/certification/competitions/opennlp/jigsaw-agile-community-rules)
 [![Rank 41 of 2445](https://img.shields.io/badge/Rank-41%20%2F%202445-blue)](https://www.kaggle.com/certification/competitions/opennlp/jigsaw-agile-community-rules)

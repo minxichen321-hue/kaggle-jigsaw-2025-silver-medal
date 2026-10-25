@@ -1,4 +1,4 @@
-# Jigsaw 2025 银牌方案说明
+# Kaggle Jigsaw 2025 银牌方案说明
 
 本项目对应 Kaggle **Jigsaw - Agile Community Rules Classification**，获奖者 **Chen Minxi（opennlp）**，成绩为 **银牌，41 / 2,445，约前 1.68%**，可通过[官方证书](https://www.kaggle.com/certification/competitions/opennlp/jigsaw-agile-community-rules)核对。
 

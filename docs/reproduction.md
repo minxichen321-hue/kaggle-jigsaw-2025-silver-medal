@@ -62,11 +62,11 @@ os.environ["KAGGLE_IS_COMPETITION_RERUN"] = "1"
 
 ## 使用提取的脚本
 
-脚本保留原模型路径、算法和超参数。以下示例假设仓库位于 `/kaggle/working/jigsaw-2025-silver-medal`，并已完成依赖和输入准备。顺序执行可释放上一阶段占用的 GPU 显存：
+脚本保留原模型路径、算法和超参数。以下示例假设仓库位于 `/kaggle/working/kaggle-jigsaw-2025-silver-medal`，并已完成依赖和输入准备。顺序执行可释放上一阶段占用的 GPU 显存：
 
 ```bash
 cd /kaggle/working
-JIGSAW_REPO=/kaggle/working/jigsaw-2025-silver-medal
+JIGSAW_REPO=/kaggle/working/kaggle-jigsaw-2025-silver-medal
 
 KAGGLE_IS_COMPETITION_RERUN=1 accelerate launch \
   --config_file "$JIGSAW_REPO/configs/accelerate_config.yaml" \

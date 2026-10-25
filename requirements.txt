@@ -1,0 +1,4 @@
+# Dependencies for the standalone rank-blending utility and its tests.
+# GPU training uses the original Kaggle notebook environment; see docs/reproduction.md.
+numpy>=1.26,<3
+pandas>=2.2,<3

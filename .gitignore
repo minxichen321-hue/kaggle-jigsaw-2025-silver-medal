@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+!.env.example
+kaggle.json
+*.pem
+*.key
+
+# Competition data, predictions, and model artifacts
+*.csv
+*.parquet
+*.pt
+*.pth
+*.bin
+*.safetensors
+data/
+models/
+save/
+outputs/
+pseudo_lora/
+wandb/
+logs/
